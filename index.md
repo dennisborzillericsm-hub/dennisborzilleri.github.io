@@ -1,18 +1,19 @@
 ---
-title: Dennis Borzilleri | VYRO
-description: Dennis Borzilleri, Software Developer, Founder of VYRO. Cross-platform mobile apps for Android & iOS.
+title: Dennis Borzilleri | Fondatore VYRO
+description: Dennis Borzilleri, Sviluppatore Software e Fondatore di VYRO, applicazioni mobile multipiattaforma per Android e iOS.
 ---
 
 # Dennis Borzilleri
+![IMG-20251113-WA0000](https://github.com/user-attachments/assets/2140daf6-e747-4899-b735-7d45b6252e06)
 
-![Dennis Borzilleri](https://inserisciqui.linkdellatuafoto.com/foto.jpg)
 
-Software Developer and Founder of **VYRO**.
+Sono **Dennis Borzilleri**, sviluppatore software e fondatore di **VYRO**, applicazione mobile multipiattaforma per Android e iOS.
 
-I work on cross-platform mobile applications for Android and iOS, focusing on performance, clean architecture, and privacy-first design.
+## Progetto VYRO
+**VYRO** è un’app innovativa per Android e iOS, progettata per prestazioni elevate e design pulito.  
+Il progetto VYRO rappresenta la mia esperienza nello sviluppo software moderno e multipiattaforma.
 
-## Project
-**VYRO** – Cross-platform mobile application for Android & iOS.
-
-## Links
-- GitHub: https://github.com/dennisborzilleri
+## Contatti e link
+- GitHub: [https://github.com/dennisborzilleri](https://github.com/dennisborzilleri)  
+- LinkedIn: https://www.linkedin.com/in/dennisborzilleri  
+- E-mail: dennis@example.com
